@@ -11,6 +11,8 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 CMakeUserPresets.json
+build/*
+out/*
 
 # ---> VisualStudioCode
 .vscode/*
@@ -460,3 +462,4 @@ FodyWeavers.xsd
 *.out
 *.app
 
+/*.code-workspace
