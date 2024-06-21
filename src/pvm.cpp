@@ -33,5 +33,5 @@ int main(int argc, char* argv[]) {
 		mkdir("./tmp");
 		cout << "Create success." << endl;
 	}
-	cout << "Pulling Index......" << endl;
+	....
 }
